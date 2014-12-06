@@ -2,6 +2,6 @@ prueba
 
 github
 
-curso
+curso Github MejorandoLa
 
 AlxMoreno
